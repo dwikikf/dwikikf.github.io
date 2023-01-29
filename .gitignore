@@ -4,6 +4,7 @@
 /lib
 /peers
 /example
+/dist/output.css
 .vscode
 .DS_Store
 .parcel-cache
